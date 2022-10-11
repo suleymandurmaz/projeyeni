@@ -1,3 +1,4 @@
 git init:gitin kontrolune alır
 git add:olusturulan dosyayı ekler
 git status:duruma bakar
+git config --global user.name,user.email:kimliğimizi tanımlama
