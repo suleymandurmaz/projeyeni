@@ -1,0 +1,3 @@
+git init:gitin kontrolune alır
+git add:olusturulan dosyayı ekler
+git status:duruma bakar
